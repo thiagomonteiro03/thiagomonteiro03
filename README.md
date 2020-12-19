@@ -13,5 +13,5 @@ I’m looking foward to learn more about Swift, Flutter, React Native, JavaScrip
 
 ### Contact me 👔
 
-💼 [LinkedIn](https://www.linkedin.com/in/thiago-nunes-monteiro-2983b0152/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/thiagomonteiro03/) <br>
 📫 thiago.monteiro@edu.pucrs.br <br>
