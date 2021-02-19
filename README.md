@@ -17,4 +17,4 @@ I’m looking foward to learn more about Swift, Flutter and React Native.
 📫 thiago.monteiro@edu.pucrs.br <br>
 
 ### 📊 Github Status
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=arildojr7&count_private=true&show_icons=true&theme=dracula&line_height=27)](https://github.com/thiagomonteiro03)
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=thiagomonteiro03&count_private=true&show_icons=true&theme=dracula&line_height=27)](https://github.com/thiagomonteiro03)
