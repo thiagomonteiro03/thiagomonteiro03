@@ -1,6 +1,6 @@
 ### Hey, i'm Thiago Monteiro 👋
 
-💻 Android Full Stack Developer Junior at Cia Zaffari <br>
+💻 Mobile Developer at Bravosul <br>
 📚 Studying Software Engineering at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) <br>
 🇧🇷 	Born and raised in Gravataí RS, Brazil <br>
 
