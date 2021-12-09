@@ -5,7 +5,7 @@
 🇧🇷 	Born and raised in Gravataí RS, Brazil <br>
 
 
-🚀  I’m a Full Stack Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
+🚀  I’m a Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
 
 
 ☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Material Design, Room, JUnit, Mockito, Unit tests, Firebase, Docker and GIT.
