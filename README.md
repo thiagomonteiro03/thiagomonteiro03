@@ -8,8 +8,8 @@
 🚀  I’m a Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
 
 
-☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Material Design, Room, JUnit, Mockito, Unit tests, Firebase, GITLAB and GIT.
-I’m looking foward to learn more about Integration Tests, UI Tests, Swift, Flutter and React Native.
+☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Material Design, Room, JUnit, Mockito, Unit tests, Firebase, React Native, GITLAB and GIT.
+I’m looking foward to learn more about Integration Tests, UI Tests, Swift, Flutter.
 
 ### Contact me 👔
 
