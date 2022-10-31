@@ -5,10 +5,10 @@
 🇧🇷 	Born and raised in Gravataí RS, Brazil <br>
 
 
-🚀  I’m a Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
+🚀  I’m a Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnology stack.
 
 
-☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design, Room, Unit tests, Integration tests and UI tests with Mockito, JUnit and Espresso, Firebase, React Native, GITLAB and GIT.
+☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design, Room, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, React Native, GITLAB and GIT.
 I’m looking foward to learn more about Swift, Flutter.
 
 ### Contact me 👔
