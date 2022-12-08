@@ -9,7 +9,7 @@
 
 
 ☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design, Room, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, React Native, GITLAB and GIT.
-I’m looking foward to learn more about Swift, Flutter.
+I’m looking forward to learn more about Swift, Flutter.
 
 ### Contact me 👔
 
