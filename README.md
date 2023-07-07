@@ -5,13 +5,19 @@
 🇧🇷 	Born and raised in Gravataí RS, Brazil <br>
 
 
-🚀  I’m a Mobile Developer since 2020, contributing in Kotlin and Java projects. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnology stack.
+🚀  I’m a Android Software Engineer since 2020, contributing android native projects with Kotlin and Java. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
 
+📖 Knowledge about architecture
+clean code, clean architecture, SOLID principles, design pattern, MVVM architecture.
 
-☕   I work with tecnologies like Kotlin, Java, Retrofit, API REST, GSON, Coroutines, Live Data, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design, Room, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, React Native, GITLAB and GIT.
-I’m looking forward to learn more about Swift, Flutter.
+☕  Knowledge about DevOps
+CI/CD, project versioning, and automated testing in CI/CD.
+
+📱 Knowledge about Mobile
+Android, Kotlin, Java, KMM, Room, Work Manager, Service Foreground, SharedPreferences, Retrofit, API REST, GSON, Coroutines, Live Data, Databinding, Jetpack Compose, Flow, Hot Flow and Cold Flow, SharedPreferences, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design 1 and 3, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, GITLAB and GIT, React Native.
+Experience with Agile, Scrum and Kanban.
 
 ### Contact me 👔
 
 💼 [LinkedIn](https://www.linkedin.com/in/thiagomonteiro03/) <br>
-📫 thiago.monteiro@edu.pucrs.br <br>
+📫 thiagomonteiro.trab@outlook.com <br>
