@@ -14,7 +14,7 @@ clean code, clean architecture, SOLID principles, design pattern, MVVM architect
 CI/CD, project versioning, and automated testing in CI/CD.
 
 📱 Knowledge about Mobile <br>
-Android, Kotlin, Java, KMM, Room, Work Manager, Service Foreground, SharedPreferences, Retrofit, API REST, GSON, Coroutines, Live Data, Databinding, Jetpack Compose, Flow, Hot Flow and Cold Flow, SharedPreferences, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design 1 and 3, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, GITLAB and GIT, React Native.
+Android, Kotlin, Java, KMM, Room, Work Manager, Service Foreground, SharedPreferences, Retrofit, API REST, GSON, Coroutines, Live Data, Databinding, Jetpack Compose, Flow, Hot Flow and Cold Flow, MVVM architecture, Dependency Injection with Dagger and Hilt, Material Design 1 and 3, Unit tests, Integration tests and UI tests with Mockito, JUnit, Roboeletric and Espresso, Firebase, GITLAB and GIT, React Native.
 Experience with Agile, Scrum and Kanban.
 
 ### Contact me 👔
