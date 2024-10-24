@@ -5,7 +5,7 @@
 🇧🇷 	Born and raised in Gravataí RS, Brazil <br>
 
 
-🚀  I’m a Android Software Engineer since 2020, contributing android native projects with Kotlin and Java. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
+🚀  I’m a Android Software Engineer since 2019, contributing android native projects with Kotlin and Java. I enjoy resolving problems and I’m always training to be better at it. Always seeking for evolution and ways to help the more people I can through my codes, doesn't matter the tecnnology stack.
 
 📖 Knowledge about architecture <br>
 clean code, clean architecture, SOLID principles, design pattern, MVVM architecture.
